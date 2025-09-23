@@ -1,0 +1,58 @@
+body {
+	background-color: dimgray;
+}
+
+h1 {
+	font-family: verdana;
+	font-size:  26px;
+	color: white;
+	text-align: center;
+	border:  1px green;
+	background-color:  black;
+	opacity: 0.8;
+	height:  40px;
+	border-radius:  10px;
+
+}
+
+h2 {
+	font-family: verdana;
+	background-color: black;
+	opacity: 0.6;
+	border-radius:  10px;
+	font-size:  20px;
+	color: white;
+	text-align: center;
+}
+
+h3 {
+	font-family: verdana;
+	color: white;
+	font-size: 16px;	
+}
+
+p {
+	font-family: verdana;
+	color: white;
+	font-size: 14px;
+}
+
+img {
+	border:  1px solid black;
+	border-radius: 5px;
+	background: black;
+	padding: 5px;
+}
+
+a:link, a:visited {
+  background-color: black;
+  color: green;
+  padding: 1px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: yellow;
+}
